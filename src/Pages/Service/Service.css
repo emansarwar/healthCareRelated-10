@@ -1,3 +1,9 @@
 .single-img{
     height: 200px;
+    
+}
+.card-service{
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr); */
+    background-color: rgb(208, 240, 229);
 }
